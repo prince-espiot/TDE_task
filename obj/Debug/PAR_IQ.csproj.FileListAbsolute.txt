@@ -1,0 +1,5 @@
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\PAR_IQ\obj\Debug\PAR_IQ.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\PAR_IQ\obj\Debug\PAR_IQ.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\PAR_IQ\obj\Debug\PAR_IQ.pdb
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\PAR_IQ\bin\Debug\PAR_IQ.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\PAR_IQ\bin\Debug\PAR_IQ.pdb
