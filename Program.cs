@@ -32,11 +32,20 @@ namespace PAR_IQ
 			inputIQ.Add(new Complex (inter, quad));
 			
 			
+			// ParCalculation(inputIQ);
+
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
 		}
 		
-		
+		static double summing (double inter, double quad)
+		{
+			double sum;
+			inter *= inter;
+		 	quad *= quad;
+		 	
+		 	return sum = inter + quad;
+		}
 		
 		
 	}

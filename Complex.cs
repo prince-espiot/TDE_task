@@ -25,26 +25,28 @@ namespace PAR_IQ
 		public double _inter = 0;
 		public double _quad =0 ;
 		public double prap =0 ;
+		const double ten = 10.0d;
 		public Complex(string Inter, string Quad)
 		{
 			_inter = Convert.ToDouble(Inter);
 			_quad =Convert.ToDouble(Quad);
 			
 		}
-		 double ParCalculation (List<Complex> inputIQ)
+		static double ParCalculation (List<Complex> inputIQ)
 		{
 
 		 	List <Complex>input= new List<Complex>();
 		 	//foreach (Complex value in inputIQ)
-		 		_inter *= _inter;
-		 		_quad *= _quad;
+		 		 
 		 	//input.Add(new Complex (Convert.ToDouble_inter,Convert.ToDouble_quad));
-		 	//double II = Math.Pow(_inter,2) ;
-		 	return prap;
+		 	summing();
+		 	
+		 	double power = ten*Math.Log(ten*(sum));
+		 		return power;
 		}
-			
 		
 		
+		 		
 		
 	}
 }
